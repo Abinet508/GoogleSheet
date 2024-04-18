@@ -1,0 +1,5 @@
+pygsheet
+pandas
+pyarrow
+argparse
+click
